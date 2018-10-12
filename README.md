@@ -1,2 +1,2 @@
 # projeto-responsivel-udacity
-Treinando pontos de interrupção com media query.
+A ideia é criar pontos de interupções com media query para criar paginas adptáveis a qualquer tela.
