@@ -1,3 +1,6 @@
+.header h1 {
+	font-size: 4em; 
+}
 .header{
 	height: 200px;
 	margin-bottom: ;
@@ -10,12 +13,13 @@
 	margin-top: -150px;
 }
 .fa-bars {
-  	margin-right: 80px;
+	margin-top: 9px;
+  	margin-right: 70px;
   	font-size: 30px;
 }
 .nav-min {
 	margin-right: -20%;
-	margin-top: -40px;
+	margin-top: -30px;
 	position: relative;
 	float: right;
 	visibility: visible;
@@ -36,7 +40,7 @@
 }
 .nav-minima:hover li {
 	display: inline-block;
-	margin-top: 10%;
+	margin-top: 15%;
 	background-color: #cdc;
 	border-radius: 10px;
 	padding: 5px;
